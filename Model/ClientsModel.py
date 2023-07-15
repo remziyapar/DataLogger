@@ -1,0 +1,12 @@
+Host= "Host"
+Port= "Port"
+TimeOut="TimeOut"
+Enable="Enable"
+Channel="Channel"
+Login="Login"
+UserName="UserName"
+Password="Password" 
+Type="Type"
+
+_Tcp="tcp"
+_Telnet="telnet"
